@@ -1,1 +1,3 @@
-# ascii-gui
+ascii-gui
+
+a terminal based gui. 
